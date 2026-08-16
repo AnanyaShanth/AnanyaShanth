@@ -1,17 +1,19 @@
-Hello, I'm Ananya P Santh
+# 👋 Hi, I'm Ananya P Santh
 
-Computer Science & Engineering Student | AI/ML Enthusiast | UI/UX Designer | Content Writer | Aspiring Software Developer
+### 💻 CSE Student | 🤖 AI/ML Enthusiast | 🎨 UI/UX Designer | ✍️ Content Writer
 
-Building impactful technology by combining creativity, innovation, and problem-solving.
+I'm a Computer Science & Engineering student passionate about **AI, Software Development, HealthTech, UI/UX & creative technology**.
 
-👩‍💻 About Me
+🌱 Currently exploring **AI/ML, Flutter, Computer Vision & Full-Stack Development**
 
-🎓 B.Tech Computer Science & Engineering student at College of Engineering Chengannur
-💻 Passionate about Software Development, AI/ML, HealthTech, and UI/UX Design
-🌱 Currently exploring Flutter, AI, Computer Vision, and Full-Stack Development
-❤️ Interested in building technology that creates real-world and social impact
-✍️ Content Writer at IEDC BOOTCAMP CEC & ET Foundation
-🎨 Experienced in Creative Design, Content Creation, Community Management & Event Coordination
-🚀 Actively involved in innovation, project exhibitions, ideathons, and student communities
+🚀 Building projects that combine **technology, creativity & real-world impact**.
 
-Tech: Python • C • Flutter • Java • React • Firebase • Git • Figma
+### 🛠️ Tech Stack
+Python • C • Java • Flutter • React • Firebase • TensorFlow • OpenCV • Git • GitHub • Figma
+
+### 🌟 Projects
+- 🌿 **HERBALANCE AI** – Women's Health & Wellness
+- 🩸 **BloodLink** – Blood Donation Platform
+- ⚽ **Next 11** – AI Football Talent Platform
+
+### 💙 Let's Build Something Meaningful!
