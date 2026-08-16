@@ -14,6 +14,6 @@ Python • C • Java • Flutter • React • Firebase • TensorFlow • Open
 ### 🌟 Projects
 - 🌿 **HERBALANCE AI** – Women's Health & Wellness
 - 🩸 **BloodLink** – Blood Donation Platform
-- ⚽ **Next 11** – AI Football Talent Platform
+  
 
 ### 💙 Let's Build Something Meaningful!
